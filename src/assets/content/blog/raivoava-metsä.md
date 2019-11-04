@@ -1,8 +1,8 @@
 ---
 title: Raivoava metsä
 author: Allen Ginsberg
-date: 
-hero_image: ''
+date: 2019-11-03T22:00:00Z
+hero_image: "/src/assets/content/images/roksolana-zasiadko-cf-ZRVtH6kE-unsplash.jpg"
 
 ---
 Aivan odottamatta saatamme päätyä metsään, jossa raivoaa tulipalo. Katsomme ympärillemme, pakotietä etsien, mutta aina sen saatamme huomata, että emme enää pääsekään sieltä pois.
